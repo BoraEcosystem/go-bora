@@ -1,3 +1,7 @@
+## Go BORA
+
+Golang implementation of the BORA project. For now, this is just a forking point.
+
 ## Go Ethereum
 
 Official golang implementation of the Ethereum protocol.
