@@ -1,6 +1,7 @@
 ## Go BORA
 
-Golang implementation of the BORA project. For now, this is just a forking point.
+Golang implementation of the BORA project. For now, this is just a forking point. BORA team is improving the code and will release it when it get ready to public review.
+At this moment, this repository will be used when you install BORA PoA node. You can check out the installation guide at BORA Lagoon site.
 
 ## Go Ethereum
 
